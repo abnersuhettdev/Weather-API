@@ -1,4 +1,6 @@
+using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc;
+
 
 [ApiController]
 [Route("api/exemplo")]
@@ -14,10 +16,12 @@ public class ExemploController : ControllerBase
     /// <remarks>
     /// Exemplo de como enviar uma solicitação:
     /// 
+    /// (Idade é obrigatória)
+    /// 
     ///     POST /api/exemplo/adicionar
     ///     {
     ///        "Nome": "João",
-    ///        "Idade": 30
+    ///        "Idade": 30 
     ///     }
     /// 
     /// </remarks>
@@ -50,7 +54,15 @@ public class ExemploController : ControllerBase
 /// </summary>
 public class ExemploRequest
 {
+    /// <summary>
+    /// Enviar o nome é obrigatório.
+    /// </summary>
+    [Required]
     public string Nome { get; set; }
+    /// <summary>
+    /// Enviar idade é obrigatória.
+    /// </summary> 
+    [Required] 
     public int Idade { get; set; }
     // Outras propriedades conforme necessário
 }

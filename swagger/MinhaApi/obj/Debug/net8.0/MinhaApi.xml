@@ -11,10 +11,12 @@
             <remarks>
             Exemplo de como enviar uma solicitação:
             
+            (Idade é obrigatória)
+            
                 POST /api/exemplo/adicionar
                 {
                    "Nome": "João",
-                   "Idade": 30
+                   "Idade": 30 
                 }
             
             </remarks>
@@ -25,6 +27,16 @@
             <summary>
             Classe que representa a estrutura da resposta do método AdicionarObjeto.
             </summary>
+        </member>
+        <member name="P:ExemploRequest.Nome">
+            <summary>
+            Enviar o nome é obrigatório.
+            </summary>
+        </member>
+        <member name="P:ExemploRequest.Idade">
+            <summary>
+            Enviar idade é obrigatória.
+            </summary> 
         </member>
         <member name="P:ExemploResponse.Mensagem">
             <summary>
