@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MinhaApi</name>
+    </assembly>
+    <members>
+        <member name="T:WeatherForecastController">
+            <summary>
+            Controlador para obter previsões meteorológicas.
+            </summary>
+        </member>
+        <member name="M:WeatherForecastController.Get">
+            <summary>
+            Obtém uma lista de previsões meteorológicas.
+            </summary>
+            <remarks>
+            Exemplo de requisição:
+            GET /api/weatherforecast
+            </remarks>
+            <returns>Uma lista de objetos WeatherForecast.</returns>
+        </member>
+        <member name="T:WeatherForecast">
+            <summary>
+            Representa uma previsão meteorológica.
+            </summary>
+        </member>
+        <member name="P:WeatherForecast.Date">
+            <summary>
+            Data da previsão.
+            </summary>
+        </member>
+        <member name="P:WeatherForecast.TemperatureC">
+            <summary>
+            Temperatura em graus Celsius.
+            </summary>
+        </member>
+        <member name="P:WeatherForecast.Summary">
+            <summary>
+            Resumo da previsão.
+            </summary>
+        </member>
+    </members>
+</doc>
