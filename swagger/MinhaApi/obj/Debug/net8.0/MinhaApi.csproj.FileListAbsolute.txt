@@ -33,3 +33,39 @@ C:\Users\Admin\Documents\w3k teste\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.ge
 C:\Users\Admin\Documents\w3k teste\swagger\MinhaApi\obj\Debug\net8.0\ref\MinhaApi.dll
 C:\Users\Admin\Documents\w3k teste\swagger\MinhaApi\bin\Debug\net8.0\MinhaApi.xml
 C:\Users\Admin\Documents\w3k teste\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.xml
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\MinhaApi.exe
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\MinhaApi.deps.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\MinhaApi.runtimeconfig.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\MinhaApi.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\MinhaApi.pdb
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\MinhaApi.xml
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.AssemblyInfo.cs
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.sourcelink.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\staticwebassets\msbuild.MinhaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MinhaApi.props
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MinhaApi.props
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MinhaApi.props
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\scopedcss\bundle\MinhaApi.styles.css
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.csproj.CopyComplete
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\refint\MinhaApi.dll
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.xml
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.pdb
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\MinhaApi.genruntimeconfig.cache
+C:\Users\Admin\Documents\w3k\WeatherApi\swagger\MinhaApi\obj\Debug\net8.0\ref\MinhaApi.dll

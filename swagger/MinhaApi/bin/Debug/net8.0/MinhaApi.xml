@@ -4,6 +4,23 @@
         <name>MinhaApi</name>
     </assembly>
     <members>
+        <member name="T:MinhaApi.Program">
+            <summary>
+            Classe principal que contém o método de inicialização da aplicação.
+            </summary>
+        </member>
+        <member name="M:MinhaApi.Program.Main(System.String[])">
+            <summary>
+            Ponto de entrada da aplicação.
+            </summary>
+            /// <param name="args">Argumentos de linha de comando.</param>
+        </member>
+        <member name="M:MinhaApi.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Configura e constrói o host da aplicação.
+            </summary>
+            <param name="args">Argumentos de linha de comando.</param>
+        </member>
         <member name="T:WeatherForecastController">
             <summary>
             Controlador para obter previsões meteorológicas.
@@ -38,6 +55,24 @@
             <summary>
             Resumo da previsão.
             </summary>
+        </member>
+        <member name="T:Startup">
+            <summary>
+            Classe responsável pela configuração da aplicação no momento de inicialização.
+            </summary>
+        </member>
+        <member name="M:Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configuração dos serviços da aplicação.
+            </summary>
+            /// <param name="services">Coleção de serviços da aplicação.</param>
+        </member>
+        <member name="M:Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Configuração da aplicação.
+            </summary>
+            <param name="app">Builder de aplicação.</param>
+            <param name="env">Ambiente de hospedagem.</param>
         </member>
     </members>
 </doc>

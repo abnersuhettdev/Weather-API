@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lynVTU2kTEaG0KpCRRRNjUa4gid/MlG+cz/l2swUZWdtxqfqTU/AMFtc15+lUjgOVoDcGJowUNDt2OLUxJ26Lg==",
+  "dgSpecHash": "cgMJxwrR7+X1pG7ZF5Rt8XAsANipIgm5i/k0apFkdkBQHynsHZz2Zkbsjwxj5FzxH7tSocKOMD/+aZ5GKF9HpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\w3k teste\\swagger\\MinhaApi\\MinhaApi.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\w3k\\WeatherApi\\swagger\\MinhaApi\\MinhaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

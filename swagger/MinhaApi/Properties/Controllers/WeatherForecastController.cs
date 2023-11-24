@@ -24,9 +24,10 @@ public class WeatherForecastController : ControllerBase
         var rng = new Random();
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {
+            
             Date = DateTime.Now.AddDays(index),
             TemperatureC = rng.Next(-20, 55),
-            Summary = Summaries[rng.Next(Summaries.Length)]
+            Summary = $" The weather is: {Summaries[rng.Next(Summaries.Length)]}"
         })
         .ToArray();
     }
@@ -55,5 +56,5 @@ public class WeatherForecast
      /// <summary>
     /// Resumo da previsão.
     /// </summary>
-    public string Summary { get; set; }
+    public string? Summary { get; set; }
 }
